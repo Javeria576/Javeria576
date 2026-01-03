@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer experienced in mobile SDK and application development, as well as backend development in C# .NET.
+Hey! I’m a software engineer who enjoys building things and figuring out how they work. I’ve worked on multiple mobile SDKs and applications, and I also have experience on the backend side with C# .NET. I really love exploring new technologies and learning by doing. 
 
 
 ## 🌐 Socials:
